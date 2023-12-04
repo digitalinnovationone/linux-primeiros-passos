@@ -81,7 +81,8 @@ Esta mentoria é ideal para qualquer pessoa interessada em aprender os fundament
 - **Sessão de Perguntas e Respostas:** Espaço para os talentos da DIO tirarem dúvidas e discutirem as aplicações dos comandos.
 
 ## Pré-requisitos
-- Acesso a um terminal Linux (usando sua própria distro, o WSL no Windows, ou uma opção online como o [copy.sh/v86](https://copy.sh/v86/)).
+- Acesso a um terminal Linux 👩‍💻👨‍💻
+   - Usando sua própria distro preferida, o WSL no Windows, ou uma opção online como o [https://copy.sh/v86](https://copy.sh/v86/).
 - Curiosidade e vontade de aprender sobre o Linux.
 
 ## Nota sobre Open Source e Licença GNU
