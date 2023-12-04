@@ -2,21 +2,22 @@
 
 ## Descrição
 
-Bem-vindo à Mentoria Ao Vivo "Seus Primeiros Passos no Linux". Esta sessão é uma introdução prática ao Linux, um sistema operacional de código aberto crucial em diversas áreas, incluindo cybersegurança, desenvolvimento de software, administração de sistemas, e muito mais. Nosso objetivo é fornecer uma base sólida para você se tornar um usuário proficiente do Linux.
-
-Esta mentoria é ideal para qualquer pessoa interessada em aprender os fundamentos do Linux. É particularmente útil para profissionais e entusiastas em áreas como cybersegurança, desenvolvimento, administração de sistemas, entre outras.
+Bem-vindo à Mentoria Ao Vivo "Seus Primeiros Passos no Linux". Esta sessão é uma introdução prática ao Linux, um sistema operacional de código aberto crucial em diversas áreas, incluindo cybersegurança, desenvolvimento de software, administração de sistemas, e muito mais. Nosso objetivo é fornecer uma base sólida para você se tornar um usuário proficiente do Linux. Esta mentoria é ideal para qualquer pessoa interessada em aprender os fundamentos do Linux. É particularmente útil para profissionais e entusiastas em áreas como cybersegurança, desenvolvimento, administração de sistemas, entre outras.
 
 ## Objetivos
 - Compreender os conceitos fundamentais do Linux.
 - Aprender e praticar comandos essenciais para a navegação e gerenciamento de arquivos.
 - Familiarizar-se com o ambiente de terminal do Linux.
 
+## Pré-requisitos
+- Acesso a um terminal Linux 👩‍💻👨‍💻
+   - Usando sua distro preferida, o WSL no Windows, ou uma opção online como o [https://copy.sh/v86](https://copy.sh/v86/).
+- Curiosidade e vontade de aprender sobre o Linux.
+  
 ## Dinâmica da Mentoria
 
 ### Preparação
 - **Configuração Inicial:** Demonstração de como usar o [copy/v86](https://github.com/copy/v86) para acessar uma distribuição Linux.
-
-### Exemplos Práticos
 
 ### Exemplos Práticos
 
@@ -74,16 +75,6 @@ Esta mentoria é ideal para qualquer pessoa interessada em aprender os fundament
    - **Exemplo Prático:**
      - Buscar por arquivos .txt no diretório atual: `find . -name "*.txt"`
      - Buscar a palavra 'Linux' em todos os arquivos .txt: `grep "Linux" .`
-
-
-### Sessão Interativa e Q&A
-- **Demonstração Ao Vivo:** Demonstração dos comandos acima no [copy/v86](https://github.com/copy/v86).
-- **Sessão de Perguntas e Respostas:** Espaço para os talentos da DIO tirarem dúvidas e discutirem as aplicações dos comandos.
-
-## Pré-requisitos
-- Acesso a um terminal Linux 👩‍💻👨‍💻
-   - Usando sua própria distro preferida, o WSL no Windows, ou uma opção online como o [https://copy.sh/v86](https://copy.sh/v86/).
-- Curiosidade e vontade de aprender sobre o Linux.
 
 ## Nota sobre Open Source e Licença GNU
 - O Linux é um exemplo proeminente de um projeto open-source. Seu desenvolvimento é um esforço colaborativo de contribuidores ao redor do mundo, coordenado principalmente através do [repositório oficial do Linux no GitHub](https://github.com/torvalds/linux).
