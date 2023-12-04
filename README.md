@@ -69,14 +69,14 @@ Bem-vindo à Mentoria Ao Vivo "Seus Primeiros Passos no Linux". Esta sessão é 
      | **1**      | **--x (1)**      | **Apenas execução**                         |
      | 0      | --- (0)      | Sem permissões                          |
 
-[Referência `chmod`](https://guialinux.uniriotec.br/chmod/)
+   [Referência 'chmod'](https://guialinux.uniriotec.br/chmod/)
 
 4. **Pesquisa de Arquivos**
    - `find . -name "*.txt"` (para encontrar arquivos .txt)
    - `grep "texto" arquivo.txt` (para buscar um texto específico dentro de um arquivo)
    - **Exemplo Prático:**
      - Buscar por arquivos .txt no diretório atual: `find . -name "*.txt"`
-     - Buscar a palavra 'Linux' em todos os arquivos .txt: `grep "Linux" .`
+     - Buscar a palavra 'Linux' em todos os arquivos: `grep "Linux" *`
 
 ## Nota sobre Open Source e Licença GNU
 - O Linux é um exemplo proeminente de um projeto open-source. Seu desenvolvimento é um esforço colaborativo de contribuidores ao redor do mundo, coordenado principalmente através do [repositório oficial do Linux no GitHub](https://github.com/torvalds/linux).
