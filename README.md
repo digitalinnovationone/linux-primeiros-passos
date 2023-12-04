@@ -69,6 +69,8 @@ Bem-vindo à Mentoria Ao Vivo "Seus Primeiros Passos no Linux". Esta sessão é 
      | **1**      | **--x (1)**      | **Apenas execução**                         |
      | 0      | --- (0)      | Sem permissões                          |
 
+[Referência `chmod`](https://guialinux.uniriotec.br/chmod/)
+
 4. **Pesquisa de Arquivos**
    - `find . -name "*.txt"` (para encontrar arquivos .txt)
    - `grep "texto" arquivo.txt` (para buscar um texto específico dentro de um arquivo)
