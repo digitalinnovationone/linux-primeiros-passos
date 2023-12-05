@@ -16,7 +16,7 @@ Bem-vindo à Mentoria Ao Vivo "Seus Primeiros Passos no Linux". Esta sessão é 
    - Ou até um emulador online como o [copy/v86](https://github.com/copy/v86) (na mentoria usamos o profile "Arch Linux").
 - Curiosidade e vontade de aprender sobre o Linux.
 
-## Referência Interessantes
+## Referências Interessantes
 - [Guia Linux](https://guialinux.uniriotec.br) (UNIRIO)
 - [GuiaFoca](https://guiafoca.org)
   
