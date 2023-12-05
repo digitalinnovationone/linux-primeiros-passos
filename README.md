@@ -11,9 +11,9 @@ Bem-vindo à Mentoria Ao Vivo "Seus Primeiros Passos no Linux". Esta sessão é 
 
 ## Pré-requisitos
 - Somente o acesso a um terminal Linux!
-   - Pode usar a sua distro preferida 🐧
-   - O WSL do Windows também é uma boa 🪟
-   - Ou até um emulador online como o [copy/v86](https://github.com/copy/v86) (na mentoria usamos o profile "Arch Linux").
+   - 🐧 Pode usar a sua distro preferida;
+   - 🪟 O WSL do Windows também é uma boa;
+   - 🤖 Ou até um emulador online como o [copy/v86](https://github.com/copy/v86) (na mentoria usamos o profile "Arch Linux").
 - Curiosidade e vontade de aprender sobre o Linux.
 
 ## Referências Interessantes
