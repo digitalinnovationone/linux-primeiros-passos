@@ -19,6 +19,8 @@ Bem-vindo à Mentoria Ao Vivo "Seus Primeiros Passos no Linux". Esta sessão é 
 ## Referências Interessantes
 - [Guia Linux](https://guialinux.uniriotec.br) (UNIRIO)
 - [GuiaFoca](https://guiafoca.org)
+- [Linux is a MUST. Seriously...](https://blog.amigoscode.com/p/linux-is-a-must-seriously)
+
   
 ## Dinâmica da Mentoria
 
